@@ -2,10 +2,10 @@
 layout: post
 read_time: true
 show_date: true
-title: 新西兰的新生活
-date: 2022-07-27 13:32:20 -0600
-description: A new start in my life. 
-img: assets/img/posts/20220727/new_life.jpg 
+title: "新西兰的新生活"
+date: 2022-07-27
+description: "A new start in my life. "
+img: posts/20220727/new_life.jpg 
 tags: [life]
 author: Alex Chan
 ---
@@ -18,7 +18,7 @@ author: Alex Chan
 
 那天 T 哥给我发了个视频：
 
-<iframe src="//player.bilibili.com/player.html?aid=555819894&bvid=BV1be4y1R7VJ&cid=769270698&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<center><iframe src="//player.bilibili.com/player.html?aid=555819894&bvid=BV1be4y1R7VJ&cid=769270698&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></center>
 
 也是一对情侣到新西兰来读书生活，最终决定买房。那天和 G 讨论要不要也考虑在奥克兰买。买了就是定下来了，还是没法打定主意哈哈～
 
