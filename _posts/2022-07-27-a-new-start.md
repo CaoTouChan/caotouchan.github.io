@@ -5,7 +5,7 @@ show_date: true
 title: "新西兰的新生活"
 date: 2022-07-27
 description: "A new start in my life. "
-img: posts/20220727/new_life.jpg 
+img: posts/20220727/newlife.jp2 
 tags: [life]
 author: Alex Chan
 ---
