@@ -2,13 +2,12 @@
 layout: post
 read_time: true
 show_date: true
-title:  新西兰的新生活
-date:   2022-07-27 13:32:20 -0600
+title: 新西兰的新生活
+date: 2022-07-27 13:32:20 -0600
 description: A new start in my life. 
 img: assets/img/posts/20220727/new_life.jpg 
 tags: [life]
 author: Alex Chan
-mathjax: no
 ---
 
 不知不觉来新西兰已经4个月了，时间过的真快。
