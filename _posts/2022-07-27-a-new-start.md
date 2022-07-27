@@ -18,7 +18,7 @@ author: Alex Chan
 
 那天 T 哥给我发了个视频：
 
-<center><iframe src="//player.bilibili.com/player.html?aid=555819894&bvid=BV1be4y1R7VJ&cid=769270698&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></center>
+<iframe src="//player.bilibili.com/player.html?aid=555819894&bvid=BV1be4y1R7VJ&cid=769270698&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 也是一对情侣到新西兰来读书生活，最终决定买房。那天和 G 讨论要不要也考虑在奥克兰买。买了就是定下来了，还是没法打定主意哈哈～
 
