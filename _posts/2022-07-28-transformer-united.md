@@ -38,3 +38,4 @@ mathjax: yes
 |    | Scaling transformers | 2022 | ST-MoE               |    | [ST-MoE: Designing Stable and Transferable Sparse Expert Models](https://arxiv.org/abs/2202.08906)                                                                                     |                                 | [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1bc9865ebf52b59abac7f5ee4456ff2ac37fcff3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ST-MoE%3A-Designing-Stable-and-Transferable-Sparse-Zoph-Bello/1bc9865ebf52b59abac7f5ee4456ff2ac37fcff3)          |
 
 
+(持续更新中……)
