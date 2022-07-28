@@ -8,8 +8,6 @@ description: "In this series of articles we examine the details of how transform
 img: posts/20220728/transformer.jpg
 tags: [NLP, artificial intelligence, transformer]
 author: Alex Chan
-toc: yes 
-mathjax: yes
 ---
 
 这段时间看了许多 Transformer 系列的文章，想着要不就用这个来作为我新博客的开篇吧。
