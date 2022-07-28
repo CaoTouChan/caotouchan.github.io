@@ -5,7 +5,7 @@ show_date: true
 title: "Trnsformer 系列大纲"
 date: 2022-07-28
 description: "In this series of articles we examine the details of how transformers work, and dive into the different kinds of transformers in different fields. "
-img: posts/20210318/transformer.jpg
+img: posts/20220728/transformer.jpg
 tags: [NLP, artificial intelligence, transformer]
 author: Alex Chan
 toc: yes 
