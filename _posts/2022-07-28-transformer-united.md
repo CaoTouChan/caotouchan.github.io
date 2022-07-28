@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Trnsformer 系列大纲"
+title: "Transformer 系列大纲"
 date: 2022-07-28
 description: "In this series of articles we examine the details of how transformers work, and dive into the different kinds of transformers in different fields. "
 img: posts/20220728/transformer.jpg
