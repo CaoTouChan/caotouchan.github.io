@@ -1882,6 +1882,9 @@ img + small, img + br + small {
 .post img {
     display: none;
 }
+img[alt=citation] {
+    display: inline;
+}
 a.post-list-title {
     text-decoration: none;
     font-family: var(--font2);
