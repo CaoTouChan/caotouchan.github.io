@@ -70,10 +70,28 @@ toc: yes
 - [Lu, Kevin, et al. "Pretrained transformers as universal computation engines." arXiv preprint arXiv:2103.05247 (2021).](https://arxiv.org/pdf/2103.05247.pdf)[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F3544650f12a05cf4ed3bf2f7e22fc5c02fcabf50%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Pretrained-Transformers-as-Universal-Computation-Lu-Grover/3544650f12a05cf4ed3bf2f7e22fc5c02fcabf50)
 
 
-# Scaling transformers
+# Others
 
-## 💤 Switch Transformers
+## Scaling transformers
+
+### 💤 Switch Transformers
 - [Fedus, William, Barret Zoph, and Noam Shazeer. "Switch transformers: Scaling to trillion parameter models with simple and efficient sparsity." (2021).](https://arxiv.org/abs/2101.03961)[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2Ffdacf2a732f55befdc410ea927091cad3b791f13%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Switch-Transformers%3A-Scaling-to-Trillion-Parameter-Fedus-Zoph/fdacf2a732f55befdc410ea927091cad3b791f13)
 
-## 💤 ST-MoE
+### 💤 ST-MoE
 - [Zoph, Barret et al. “ST-MoE: Designing Stable and Transferable Sparse Expert Models.” (2022).](https://arxiv.org/abs/2202.08906)[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F1bc9865ebf52b59abac7f5ee4456ff2ac37fcff3%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/ST-MoE%3A-Designing-Stable-and-Transferable-Sparse-Zoph-Bello/1bc9865ebf52b59abac7f5ee4456ff2ac37fcff3)
+
+
+## 多模态
+
+### 💤 Perceiver
+- [Jaegle, Andrew, et al. "Perceiver: General perception with iterative attention." International conference on machine learning. PMLR, 2021.](https://arxiv.org/abs/2103.03206)[![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F63a9daf15ae2d4c1a7859d3105c9e6710903e072%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Perceiver%3A-General-Perception-with-Iterative-Jaegle-Gimeno/63a9daf15ae2d4c1a7859d3105c9e6710903e072)
+
+### 💤 Perceiver IO
+
+- [Jaegle, Andrew, et al. "Perceiver io: A general architecture for structured inputs & outputs." arXiv preprint arXiv:2107.14795 (2021).](https://arxiv.org/abs/2107.14795) [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F9933a5af7895354087baf6c96b64dc8a8973eaed%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Perceiver%3A-General-Perception-with-Iterative-Jaegle-Gimeno/9933a5af7895354087baf6c96b64dc8a8973eaed)
+
+## 非参数模型
+
+### 💤 Non-Parametric Transformers
+
+- [Kossen, Jannik, et al. "Self-attention between datapoints: Going beyond individual input-output pairs in deep learning." Advances in Neural Information Processing Systems 34 (2021): 28742-28756.](https://arxiv.org/abs/2106.02584) [![citation](https://img.shields.io/badge/dynamic/json?label=citation&query=citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2F5f340aede85050917a8a1abb6a62d958187ad5a4%3Ffields%3DcitationCount)](https://www.semanticscholar.org/paper/Perceiver%3A-General-Perception-with-Iterative-Jaegle-Gimeno/5f340aede85050917a8a1abb6a62d958187ad5a4)
