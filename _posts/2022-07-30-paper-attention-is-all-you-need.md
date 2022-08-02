@@ -2,7 +2,7 @@
 layout: post
 read_time: true
 show_date: true
-title: "Transformer : 继 MLP、CNN、RNN 后的第四大类架构"
+title: "Transformer 模型结构解析"
 date: 2022-07-30
 description: ""
 img: posts/20220730/transformer.jpg
@@ -89,10 +89,12 @@ $$Attention(Q, K, V) = Softmax(\frac{QK^T}{√(d_k)})V$$
 
 Muti-Head Attention 实际上就是拼接多个 Scaled Dot-Product Attention 的结果，然后和一个权重矩阵$W^O$相乘后输出：
 
-$$
+<p style="text-align:center">
+\(
 MultiHead(Q,K,V) = Concat(head_1,...,head_h)W^O, \\
 where \space head_i = Attention(QW_i^Q, KW_i^K, VW_i^V)
-$$
+\)
+</p>
 
 下图是 [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) 一个示意图：
 
@@ -134,7 +136,7 @@ am : pos=1,
     PE(1,3) = PE(1, 2*1+1) = cos(1/10) = 1.00
 ```
 
-
+论文中的 $n = 10000， d_{model} = 512$。
 
 
 # 参考
