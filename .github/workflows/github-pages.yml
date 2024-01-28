@@ -14,11 +14,6 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3.0'
-      - name: Build and deploy
-        run: |
-          gem install bundler jekyll
-          bundle install
-          bundle exec jekyll build
       - uses:  helaili/jekyll-action@v2
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
