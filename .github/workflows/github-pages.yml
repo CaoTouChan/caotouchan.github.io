@@ -11,9 +11,18 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
+        uses: actions/setup-ruby@v1
         with:
-          ruby-version: 3.0
-      - uses:  helaili/jekyll-action@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ruby-version: '3.0'
+      - name: Build and deploy
+        run: |
+          gem install bundler jekyll
+          bundle install
+          bundle exec jekyll build
+          git config --global user.email "caotouchan@gmail.com"
+          git config --global user.name "caotouchan"
+          git add -A
+          git commit -m "Deploy to GitHub Pages"
+          git push origin master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
