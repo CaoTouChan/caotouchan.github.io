@@ -19,10 +19,3 @@ jobs:
           gem install bundler jekyll
           bundle install
           bundle exec jekyll build
-          git config --global user.email "caotouchan@gmail.com"
-          git config --global user.name "caotouchan"
-          git add -A
-          git commit --allow-empty -m "Deploy to GitHub Pages"
-          git push origin master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
