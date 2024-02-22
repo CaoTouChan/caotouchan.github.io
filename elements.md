@@ -19,7 +19,15 @@ nav-menu: true
 <h2 id="content" hidden>About Me</h2>
 <p>In a world driven by data, I'm a curious explorer navigating the uncharted territories of information. I thrive on the challenge of transforming raw data into actionable insights, using my skills to unlock the secrets hidden within. From healthcare to finance, my passion lies in applying data science to make a positive impact on the world. Join me on this journey of discovery, where every byte holds the potential to revolutionize the way we live, work, and understand the world around us.</p>
 
-<iframe title="crime_stats1" width="1090" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiMzMxM2JjMzYtZDEzYy00YWJkLWJkOTAtNjZhNmI2ODBjZmQ4IiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<p>Below are some of my data analysis projects.</p>
+
+<h2 id="content">Theft and Related Offences Analysis (NZ)</h2>
+<p>
+    This segment presents an in-depth exploration of theft-related offenses, leveraging an authoritative dataset provided by <a href="https://www.police.govt.nz/" target="_blank">the NZ Police</a>. Utilizing Power BI's robust data visualization tools, this analysis offers interactive insights into theft incidents across various dimensions. Users can dynamically filter the data by date range, ethnicity, and age group to uncover trends, patterns, and correlations. The dashboards highlight the percentage of different theft offenses, trend analysis over time, and geographical distribution of incidents, enabling a comprehensive understanding of theft-related dynamics within New Zealand.
+</p>
+
+
+<iframe title="crime_stats1" width="1090" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiOTMyOTU2M2ItZGFlMi00YzQ1LTk2NjEtZjljYjAzZTQ5NjUwIiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <h2 id="content" hidden>My Blogs</h2>
 <p hidden>My blogs on Medium: <a href="https://medium.com/@caotouchan">@caotouchan</a></p>
