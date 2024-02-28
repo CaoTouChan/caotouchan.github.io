@@ -29,7 +29,7 @@ nav-menu: true
 <p>Github: click <a href="https://github.com/CaoTouChan/powerbi_stats" target="_blank">here</a></p>
 <p>Medium: <a href="https://profile.caotouchan.tech/financial-report-with-power-bi-a9b622c09a64" target="_blank">Financial Report with Power BI</a></p>
 
-<iframe title="financial report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTI3NWZhMTQtZWMzYS00OGYxLWI2NjctY2IxY2FmNzA2NTdlIiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="financial report" width="964" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTI3NWZhMTQtZWMzYS00OGYxLWI2NjctY2IxY2FmNzA2NTdlIiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 
 <h2 id="content">Theft and Related Offences Analysis (NZ)</h2>
