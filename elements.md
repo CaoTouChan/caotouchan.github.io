@@ -21,13 +21,23 @@ nav-menu: true
 
 <p>Below are some of my data analysis projects.</p>
 
+<h2 id="content">Finanial Report Analysis (Power Query & DAX)</h2>
+
+<p>Use Power Query to import and clean financial data for analysis.</p>
+<p>Create visuals to effectively communicate financial insights.</p>
+<p>Analyse financial statements using DAX to understand a company’s financial position over time.</p>
+<p>Github: click <a href="https://github.com/CaoTouChan/powerbi_stats" target="_blank">here</a></p>
+<p>Medium: <a href="https://profile.caotouchan.tech/financial-report-with-power-bi-a9b622c09a64" target="_blank">Financial Report with Power BI</a></p>
+
+<iframe title="financial report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOTI3NWZhMTQtZWMzYS00OGYxLWI2NjctY2IxY2FmNzA2NTdlIiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
 <h2 id="content">Theft and Related Offences Analysis (NZ)</h2>
 <p>
-    This segment presents an in-depth exploration of theft-related offenses, leveraging an authoritative dataset provided by <a href="https://www.police.govt.nz/" target="_blank">the NZ Police</a>. Utilizing Power BI's robust data visualization tools, this analysis offers interactive insights into theft incidents across various dimensions. Users can dynamically filter the data by date range, ethnicity, and age group to uncover trends, patterns, and correlations. The dashboards highlight the percentage of different theft offenses, trend analysis over time, and geographical distribution of incidents, enabling a comprehensive understanding of theft-related dynamics within New Zealand.
-</p>
+    This segment presents an in-depth exploration of theft-related offenses, leveraging an authoritative dataset provided by <a href="https://www.police.govt.nz/" target="_blank">the NZ Police</a>. Utilizing Power BI's robust data visualization tools, this analysis offers interactive insights into theft incidents across various dimensions. Users can dynamically filter the data by date range, ethnicity, and age group to uncover trends, patterns, and correlations. The dashboards highlight the percentage of different theft offenses, trend analysis over time, and geographical distribution of incidents, enabling a comprehensive understanding of theft-related dynamics within New Zealand.</p>
 
 
-<iframe title="crime_stats1" width="1090" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiOTMyOTU2M2ItZGFlMi00YzQ1LTk2NjEtZjljYjAzZTQ5NjUwIiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="crime_stats1" width="1090" height="600" src="https://app.powerbi.com/view?r=eyJrIjoiOTMyOTU2M2ItZGFlMi00YzQ1LTk2NjEtZjljYjAzZTQ5NjUwIiwidCI6ImQ2MDQ4NzQ5LTVjNjctNDExMy1iYTA5LWU2NzA5ODgzMDI5YiJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 <h2 id="content" hidden>My Blogs</h2>
 <p hidden>My blogs on Medium: <a href="https://medium.com/@caotouchan">@caotouchan</a></p>
